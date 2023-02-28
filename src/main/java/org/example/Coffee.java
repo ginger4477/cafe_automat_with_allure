@@ -2,7 +2,7 @@ package org.example;
 
 public class Coffee {
 
-    int getMilk() {
+    public int getMilk() {
         int milk = 0;
 
         return milk;
